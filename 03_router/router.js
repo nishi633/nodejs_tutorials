@@ -3,7 +3,6 @@
 
 function route(pathname) {
   console.log("Request received. " + pathname);
-
 }
 
 // route関数をrouteモジュールとしてエクスポート
